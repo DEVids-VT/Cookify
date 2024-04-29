@@ -1,0 +1,6 @@
+@Cookify_HostAddress = http://localhost:5212
+
+GET {{Cookify_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
